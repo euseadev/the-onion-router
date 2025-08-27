@@ -111,7 +111,7 @@ Nodes are selected randomly and connected through encrypted tunnels. This struct
 - [The Tor Project Official Website](https://www.torproject.org/)
 - [Bitcoin Official Website](https://bitcoin.org/)
 - [Monero Official Website](https://www.getmonero.org/)
-- [What is a Bitcoin Mixer?](https://www.investopedia.com/terms/b/bitcoin-mixer.asp)
+- [What is a Bitcoin Mixer?](https://en.wikipedia.org/wiki/Cryptocurrency_tumbler)
 
 ---
 

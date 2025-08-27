@@ -111,7 +111,7 @@ Node’lar rastgele seçilir ve şifreli tüneller aracılığıyla birbirine ba
 - [The Tor Project Resmi Web Sitesi](https://www.torproject.org/)
 - [Bitcoin Resmi Sitesi](https://bitcoin.org/)
 - [Monero Resmi Web Sitesi](https://www.getmonero.org/)
-- [Bitcoin Mixer Nedir?](https://www.investopedia.com/terms/b/bitcoin-mixer.asp)
+- [Bitcoin Mixer Nedir?](https://en.wikipedia.org/wiki/Cryptocurrency_tumbler)
 
 ---
 
